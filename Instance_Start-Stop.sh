@@ -52,4 +52,3 @@ elif [ "$1" == "" ]|| [ "$1" == "--help" ] ||[ "$1" == "-help" ] || [ "$1" == "-
 	-stop   <ip-address>
 	"
 fi
-echo "done...!!!!"
